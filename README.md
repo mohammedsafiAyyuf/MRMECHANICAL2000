@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mohammed Safi
+- 👋 Hi, I’m Mohammed Safi
 - 👀 I’m interested in Software Development
 - 🌱 I’m am good with Problem Solving (Algorithm and Data Structure)
 - 📫 How to reach me : mrmechanical26052000@gmail.com
